@@ -23,7 +23,7 @@ xampp/MySQL/PHP
 
 # データベース
 
-php_self
+データベース名:php_self
 
 テーブル
 
